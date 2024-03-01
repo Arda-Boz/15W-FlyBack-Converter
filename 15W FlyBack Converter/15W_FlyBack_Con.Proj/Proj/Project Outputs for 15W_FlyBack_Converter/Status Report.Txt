@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [15WFlyBack.PcbDoc]
+   Generated File[15WFlyBack.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:23:56 On 1.03.2024

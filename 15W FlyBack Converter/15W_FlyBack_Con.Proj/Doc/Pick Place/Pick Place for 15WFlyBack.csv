@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\ARDA\Desktop\Altium_P\15W FlyBack Converter\15W_FlyBack_Con.Proj\Proj\Project Outputs for 15W_FlyBack_Converter\Pick Place\Pick Place for 15WFlyBack.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01.03.24
+Time:       16:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Footprint","Description"
+"C8","1189-1590-1-ND","CAPPRD200W50D525H1250","RUBYCON         25YXJ47MTA5X11            Electrolytic Capacitor, Miniature, YXJ Series, 47 F,  20%, 25 V, 5 mm, Radial Leaded"
+"D8","1N4007FLTR","DO-214AAC(SMB)","Standard Rectifier 1000V SOD-123"
+"D7","1N4007FLTR","DO-214AAC(SMB)","Standard Rectifier 1000V SOD-123"
+"D4","1N4007FLTR","DO-214AAC(SMB)","Standard Rectifier 1000V SOD-123"
+"D2","1N4007FLTR","DO-214AAC(SMB)","Standard Rectifier 1000V SOD-123"
+"C1","495-4967-1-ND","Y2-CAP","Film Capacitor, Polypropylene, 1500V, 20% +Tol, 20% -Tol, 0.0022uF, Through Hole Mount"
+"U2","50R 100MHz","BEAD-1206","SMD 1206"
+"J1","691210910002","CONN-TENMÝNAL-BLOCK-DC","Tb, Wire To Brd, R/A, 2Way, 18Awg Rohs Compliant: Yes"
+"J2","691214410002","CONN-TERMÝNAL-BLOCK-AC","7.62 Mm Terminal Block, Horizont"
+"C2","860040475008","CAPPRD500W60D1025H1750","WCAP-ATUL Aluminum Electrolytic Capacitors"
+"RT1","B57153S0160M051","NTC-TO","Icl 16 Ohm 20% 8.5MM"
+"RV1","B72214S0301K101","VARÝSTOR","Epcos Standard Series Disc Varistor 300pF 4500A; Varistor 470V"
+"U1","B82732R2701B030","CMC","Common Mode Chokes Dual 39mH 10kHz 700mA Thru-Hole Box"
+"C5","C 22uF 400 270mArms","22UF_400V","Cap Aluminum Lytic 22uF 400V 20%( 12.5 X 16mm) Radial 5mm 180mA 2000h 105C"
+"C6","C1812C104KDRAC7800","CAP-1812","Multilayer Ceramic Capacitor, 0.1 uF, 1000 V, ± 10%, X7R, 1812 [4532 Metric]"
+"C14","CC0603KRX7R8BB104","CAP-0603","Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 0603 [1608 Metric]"
+"C12","CC0603KRX7R8BB104","CAP-0603","Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 0603 [1608 Metric]"
+"C11","CC0603KRX7R8BB104","CAP-0603","Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 0603 [1608 Metric]"
+"C9","CC0603KRX7R8BB104","CAP-0603","Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 0603 [1608 Metric]"
+"C7","CC0603KRX7R8BB104","CAP-0603","Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 0603 [1608 Metric]"
+"C3","CL21B105KBFNNNE","CAP-0805","Multilayer Ceramic Capacitor, 1 uF, 50 V, ± 10%, X7R, 0805 [2012 Metric]"
+"D9","ES2D","DO-214AAC(SMB)","ES2DFSCT-ND"
+"R13","ESR03EZPJ102","RES-0603","Res Thick Film 0603 1K Ohm 5% 0.25W(1/4W) ±200ppm/C Molded SMD Automotive Paper T/R"
+"R11","ESR03EZPJ102","RES-0603","Res Thick Film 0603 1K Ohm 5% 0.25W(1/4W) ±200ppm/C Molded SMD Automotive Paper T/R"
+"C13","KGM15ACG1E221JT","CAP-0603","CAP CER 220PF 25V C0G/NP0 0603"
+"C10","KGM15AR71E222JT","CAP-0603","CAP CER 2200PF 25V X7R 0603"
+"C4","MPX154K305E","X2-CAP","MPX Boxed Metalized Propylene X2 Class Interference Suppressor Film Capacitors"
+"D1","MUR460RLG","DO-201AD-TO","VR=600V IF=4A Trr=75ns"
+"Q1","NTD360N80S3Z","TO-252-MOSFET","MOSFET – Power, N-Channel, SUPERFET® III, 800 V, 13 A, 360 m?, DPAK"
+"D3","P6KE200","TO-P6KE","Diode TVS Single Bi-Directional 171V 600W 2-Pin DO-15 - Tape and Reel"
+"Q2","PC817X","PC817-SMD","DIP-4 Viso=5000Vrms VF(typ)=1.2V IF=50mA Vo=80V"
+"R14","RC1206JR-07100KL","RES-1206","SMD Chip Resistor, 100 kOhm, ± 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"
+"R8","RC1206JR-07100KL","RES-1206","SMD Chip Resistor, 100 kOhm, ± 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"
+"R7","RC1206JR-07100KL","RES-1206","SMD Chip Resistor, 100 kOhm, ± 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"
+"R6","RC1206JR-07100KL","RES-1206","SMD Chip Resistor, 100 kOhm, ± 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"
+"R9","RC1206JR-073K3L","RES-1206","Res Thick Film 1206 3.3K Ohm 5% 0.25W(1/4W) ±100ppm/°C Pad SMD T/R"
+"R12","RC1206JR-074K7L","RES-1206","Res Thick Film 1206 4.7K Ohm 5% 1/4W"
+"R3","RC1206JR-074K7L","RES-1206","Res Thick Film 1206 4.7K Ohm 5% 1/4W"
+"R2","RMCF1206JT22R0","RES-1206","Res Thick Film 1206 22 Ohm 5% 0.25W(1/4W) ±200ppm/C Pad SMD Automotive T/R"
+"R5","RMCF1206JT2K20","RES-1206","Res Thick Film 1206 2.2K Ohm 5% 0.25W(1/4W) ±200ppm/C Pad SMD Automotive T/R"
+"R4","RMCF1206JT2K20","RES-1206","Res Thick Film 1206 2.2K Ohm 5% 0.25W(1/4W) ±200ppm/C Pad SMD Automotive T/R"
+"R1","RMCF1206JT2K20","RES-1206","Res Thick Film 1206 2.2K Ohm 5% 0.25W(1/4W) ±200ppm/C Pad SMD Automotive T/R"
+"R10","RMCF1206JT510R","RES-1206","Res Thick Film 1206 510 Ohm 5% 0.25W(1/4W) ±200ppm/C Pad SMD Automotive T/R"
+"T1","SMPS Tr","SMPS-TR3","SMPS Tr"
+"VR1","UC3842B","SOP-8-UC","Converter Offline Flyback Topology Up to 500kHz 8-SOIC"
+"D5","US1M","DO-214AAC(SMB)","Diode Ultra Fast Recovery Rectifier 1K Volt 1A 2-Pin SMA Tape and Reel"
+"D11","ZENER","SOD-123","SOD-123"
+"D10","ZENER","SOD-123","SOD-123"
+"D6","ZENER","SOD-123","SOD-123"

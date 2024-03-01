@@ -1,0 +1,73 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\ARDA\Desktop\Altium_P\15W FlyBack Converter\15W_FlyBack_Con.Proj\Pcb\15WFlyBack.PcbDoc
+Date     : 1.03.2024
+Time     : 15:58:10
+
+Processing Rule : Clearance Constraint (Gap=2.5mm) (InNetClass('YG')),(InNetClass('YG') or InNetClass('AG'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.6mm) (OnLayer('Keep-Out Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNetClass('DC_Bara_Direnc')),(InNetClass('DC_Bara_Direnc'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNetClass('Ýzole')),(InNetClass('Ýzole'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.6mm) (InNet('No Net')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mm) (InNetClass('Ýzole')),(not InNetClass('Ýzole'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.6mm) ((IsPad or IsVia)),((IsPad or IsVia))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Via (20.574mm,7.493mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (22.479mm,39.116mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (68.834mm,3.937mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (83.058mm,38.862mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :4
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=8mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=35mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:01
